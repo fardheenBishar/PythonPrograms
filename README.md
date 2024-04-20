@@ -1,2 +1,2 @@
 # PythonPrograms
- small python programs 
+ small and simple python programs done using IDLE
